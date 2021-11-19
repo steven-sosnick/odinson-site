@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/odinson-site/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/odinson-site/static/js/main.e26cdede.chunk.js",
+    "main.js.map": "/odinson-site/static/js/main.e26cdede.chunk.js.map",
+    "runtime-main.js": "/odinson-site/static/js/runtime-main.4812f846.js",
+    "runtime-main.js.map": "/odinson-site/static/js/runtime-main.4812f846.js.map",
+    "static/js/2.aca1d59a.chunk.js": "/odinson-site/static/js/2.aca1d59a.chunk.js",
+    "static/js/2.aca1d59a.chunk.js.map": "/odinson-site/static/js/2.aca1d59a.chunk.js.map",
+    "static/js/3.aaa05670.chunk.js": "/odinson-site/static/js/3.aaa05670.chunk.js",
+    "static/js/3.aaa05670.chunk.js.map": "/odinson-site/static/js/3.aaa05670.chunk.js.map",
+    "index.html": "/odinson-site/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/odinson-site/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.aca1d59a.chunk.js.LICENSE.txt": "/odinson-site/static/js/2.aca1d59a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/odinson-site/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4812f846.js",
+    "static/js/2.aca1d59a.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.e26cdede.chunk.js"
+  ]
+}
